@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/).
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I used to own a Belgian café in Chennai (India)
+- ⚡ Fun fact: I used to own a [Belgian café](https://www.instagram.com/wafobel/) in Chennai (India)
