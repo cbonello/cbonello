@@ -7,4 +7,4 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I used to own a [Belgian café](https://www.instagram.com/wafobel/) in Chennai (India)
 
-![Christophe's github stats](https://github-readme-stats.vercel.app/api?username=cbonello)
+![Christophe's github stats](https://github-readme-stats.vercel.app/api?username=cbonello&hide_border=true)
