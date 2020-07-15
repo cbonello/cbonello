@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/).
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I used to own a [Belgian café](https://www.instagram.com/wafobel/) in Chennai (India)
 
 ![Christophe's github stats](https://github-readme-stats.vercel.app/api?username=cbonello&hide_border=true)
