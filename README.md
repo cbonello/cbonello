@@ -8,3 +8,4 @@
 - ⚡ Fun fact: I used to own a [Belgian café](https://www.instagram.com/wafobel/) in Chennai (India)
 
 ![Christophe's github stats](https://github-readme-stats.vercel.app/api?username=cbonello&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbonello&hide_border=true&show_icons=true&layout=compact&theme=vue)](https://github.com/cbonello/github-readme-stats)
