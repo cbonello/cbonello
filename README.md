@@ -8,8 +8,8 @@
 - ⚡ Fun fact: I used to own a [Belgian café](https://www.instagram.com/wafobel/) in Chennai (India)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cbonello&hide_border=true" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=cbonello&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbonello&hide_border=true&show_icons=true&layout=compact&theme=vue" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbonello&hide_border=true&show_icons=true&layout=compact&theme=vue" />
 </a>
