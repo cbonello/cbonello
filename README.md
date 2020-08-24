@@ -15,4 +15,4 @@
 </a>
 
 ### Spotify Playing
-[![Spotify](https://https://novatorem-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/768bd84vi6h99ualhr759fwgu)
+[![Spotify](https://novatorem-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/768bd84vi6h99ualhr759fwgu)
