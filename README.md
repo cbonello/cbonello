@@ -14,5 +14,5 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbonello&hide_border=true&show_icons=true&layout=compact&theme=vue" />
 </a>
 
-### Spotify Playing
-[![Spotify](https://novatorem-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/768bd84vi6h99ualhr759fwgu)
+### Spotify Playing 🎧
+[<img src="https://novatorem-alpha.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/768bd84vi6h99ualhr759fwgu)
