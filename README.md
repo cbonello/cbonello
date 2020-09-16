@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Amiidex](https://play.google.com/store/apps/details?id=com.happytracebook.amiidex&hl=en_US) 2.0, a [Sharp LH5801 8-bit processor emulator](https://github.com/cbonello/lh5801) and the [Treester](https://www.thetreester.com/) mobile app
+- 🔭 I’m currently working on [Amiidex](https://play.google.com/store/apps/details?id=com.happytracebook.amiidex&hl=en_US) 2.0, a [Sharp LH5801 8-bit processor emulator](https://github.com/cbonello/lh5801) and the [Treester](https://www.thetreester.com/) mobile . And whenever I have some free time I am trying to help [Thomas Burkhart](https://www.burkharts.net/apps/blog/) with his [super_tooltip](https://pub.dev/packages/super_tooltip) package.
 - 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/)
