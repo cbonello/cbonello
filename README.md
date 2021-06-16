@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Amiidex](https://play.google.com/store/apps/details?id=com.happytracebook.amiidex&hl=en_US) 2.0, a [Sharp LH5801 8-bit microprocessor emulator](https://github.com/cbonello/lh5801) and the [Treester](https://www.thetreester.com/) mobile app.
+- 👷 I have been developing with Dart / Flutter since October 2018.
+- 🔭 I’m currently working on [Amiidex](https://play.google.com/store/apps/details?id=com.happytracebook.amiidex&hl=en_US) 2.0, a [Sharp LH5801 8-bit microprocessor emulator](https://github.com/cbonello/lh5801), the [Treester](https://www.thetreester.com/) mobile app and [Variant News](https://play.google.com/store/apps/details?id=com.electrixsheep.variant&hl=en_US&gl=US) web.
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/)
 - 😄 Pronouns: he/him
