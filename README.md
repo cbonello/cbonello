@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there!
 
 - 👷 I have been developing with Dart / Flutter since October 2018.
 - 🔭 I’m currently working on [Amiidex](https://play.google.com/store/apps/details?id=com.happytracebook.amiidex&hl=en_US) 2.0 and a [Sharp LH5801 8-bit microprocessor emulator](https://github.com/cbonello/lh5801).
