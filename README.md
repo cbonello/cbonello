@@ -3,8 +3,8 @@
 - 👷 I have been developing with Dart / Flutter since October 2018.
 - 🔭 I’m currently working on [Amiidex](https://play.google.com/store/apps/details?id=com.happytracebook.amiidex&hl=en_US) 2.0 and a [Sharp LH5801 8-bit microprocessor emulator](https://github.com/cbonello/lh5801).
 - 💬 Ask me about [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I used to own a [Belgian café](https://www.instagram.com/wafobel/) in Chennai (India)
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: I used to own a [Belgian café](https://www.instagram.com/wafobel/) in Chennai (India).
 
 ### Languages & Tools
 
