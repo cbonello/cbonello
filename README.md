@@ -1,6 +1,6 @@
 ### Hi there!
 
-- 👷 I have been developing with Dart / Flutter since October 2018
+- 👷 I have been developing with Dart and Flutter since October 2018
 - 🔭 I’m currently working on personal Flutter projects.
 - 💬 Ask me about [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/)
 - 😄 Pronouns: he/him
