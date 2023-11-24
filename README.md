@@ -1,4 +1,4 @@
-### Hi there ✋
+### Hi there!
 
 - 👷 I have been working with Dart and Flutter since October 2018.
 - 🔭 I’m currently working on personal Flutter projects.
